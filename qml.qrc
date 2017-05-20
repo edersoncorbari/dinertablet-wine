@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+        <file>qml/main.qml</file>
+        <file>qml/ContactModel.qml</file>
+    </qresource>
+</RCC>

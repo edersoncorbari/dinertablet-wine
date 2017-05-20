@@ -1,0 +1,8 @@
+<RCC>
+    <qresource>
+        <file>fonts/arizonia/Arizonia-Regular.ttf</file>
+        <file>fonts/great-vibes/GreatVibes-Regular.ttf</file>
+        <file>translations/DinerTablet_pt_BR.qm</file>
+        <file>translations/DinerTablet_es.qm</file>
+    </qresource>
+</RCC>

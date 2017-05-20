@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="background-mainwidget.jpg">images/background-mainwidget.jpg</file>
+        <file alias="menu.png">images/menu.png</file>
+        <file alias="flag-br.png">images/flag-br.png</file>
+        <file alias="flag-us.png">images/flag-us.png</file>
+        <file alias="flag-es.png">images/flag-es.png</file>
+        <file alias="config.png">images/config.png</file>
+        <file alias="status-red.png">images/status-red.png</file>
+        <file alias="status-green.png">images/status-green.png</file>
+        <file alias="notes.png">images/notes.png</file>
+        <file alias="waiter-order.jpg">images/waiter-order.jpg</file>
+        <file alias="wine-details.jpg">images/wine-details.jpg</file>
+        <file alias="logo-res.png">images/logo-res.png</file>
+        <file alias="logo-res-color.png">images/logo-res-color.png</file>
+        <file alias="wine-country.jpg">images/wine-country.jpg</file>
+        <file alias="wine-producer.jpg">images/wine-producer.jpg</file>
+        <file alias="wine-region.jpg">images/wine-region.jpg</file>
+        <file alias="wine-type.jpg">images/wine-type.jpg</file>
+        <file alias="wine-varietals.jpg">images/wine-varietals.jpg</file>
+        <file alias="Ads-1.jpg">images/Ads-1.jpg</file>
+        <file alias="Ads-2.jpg">images/Ads-2.jpg</file>
+        <file alias="loading.gif">images/loading.gif</file>
+    </qresource>
+</RCC>
