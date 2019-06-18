@@ -5,4 +5,4 @@ application is hybrid and works on iOS systems and Android can also be compiled 
 
 It is one of the restaurants that can be used also as a wine charter. See some photos below:
 
-![](https://raw.githubusercontent.com/edersoncorbari/dinertablet-wine/master/doc/publish/img-1.jpg)
+![](https://raw.githubusercontent.com/edersoncorbari/dinertablet-wine/master/doc/publish/img-3.jpg)
